@@ -1,0 +1,2 @@
+# NewsMobile
+Aplicacion Ionic Noticias
